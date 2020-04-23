@@ -1,0 +1,1 @@
+# List of fixed seed nodes for testnet... if you do not know the port, use default which you configured at config.sh

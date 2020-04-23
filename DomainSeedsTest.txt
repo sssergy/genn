@@ -1,0 +1,3 @@
+seed1.rtid-platform.web.id
+seed2.rtid-platform.web.id
+seed3.rtid-platform.web.id

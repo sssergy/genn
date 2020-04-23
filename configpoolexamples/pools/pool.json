@@ -1,0 +1,29 @@
+{
+    "enabled": true,
+    "coin": "rtidcoin.json",
+    "daemon": {
+        "port": 9332,
+        "username": "rtidpool",
+        "password": "rtidpoolpw"
+    },
+    "wallet": {
+        "address": "EQtmTZjr3A37gY26JgNueA1hCEE5TJC1NZ"
+    },
+    "rewards": [
+        {
+            "RMfxMEmzkkVCtREA1HyWzBMJSaM2iHi8uH": 1
+        }
+    ],
+    "stratum": {
+        "port": 3333
+    },
+    "storage": {
+        "hybrid": {
+          "mysql": {
+            "database": "coinium",
+            "username": "root",
+            "password": ""
+          }
+        }
+    }
+}

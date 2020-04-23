@@ -1,0 +1,15 @@
+{
+    "name": "Rtidcoin",
+    "symbol": "RTID",
+    "algorithm": "yescrypt",
+    "site": "https://rtidcoin.net/",
+    "blockExplorer": {
+        "block": "http://block-explorer.com/block/",
+        "tx": "http://block-explorer.com/tx/",
+        "address": "http://block-explorer.com/address/"
+    },
+    "node": {
+        "magic": "fa931bc5",
+        "testnetMagic": "205ef8df"
+    }
+}

@@ -1,0 +1,2 @@
+explorer.rtid-platform.web.id
+seed.rtid-platform.web.id
